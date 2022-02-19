@@ -1,0 +1,5 @@
+[core]
+        autocrlf = false
+[user]
+        email = 29170535+tarot-shogun@users.noreply.github.com
+        name = Tarots Hogun
