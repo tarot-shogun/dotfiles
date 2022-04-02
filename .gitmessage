@@ -6,15 +6,6 @@
 #
 # Refs: #1
 ##################################################################
-# If you want to activate, execute the following command.
-# $ git config --global commit.template ~/.gitmessage
-##################################################################
-# <type>[optional scope]: <description>
-#
-# [optional body]
-#
-# [optional footer(s)]
-##################################################################
 # <type>
 # build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
 # ci: Changes to our CI configuration files and scripts (examples: CircleCi, SauceLabs)
@@ -24,6 +15,15 @@
 # perf: A code change that improves performance
 # refactor: A code change that neither fixes a bug nor adds a feature
 # test: Adding missing tests or correcting existing tests
+##################################################################
+# If you want to activate, execute the following command.
+# $ git config --global commit.template ~/.gitmessage
+##################################################################
+# <type>[optional scope]: <description>
+#
+# [optional body]
+#
+# [optional footer(s)]
 ##################################################################
 # refs:
 #   https://www.conventionalcommits.org/
