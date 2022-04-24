@@ -4,3 +4,5 @@
 [user]
         email = 29170535+tarot-shogun@users.noreply.github.com
         name = Tarots Hogun
+[commit]
+        template = /home/yamamoto_h/.gitmessage
