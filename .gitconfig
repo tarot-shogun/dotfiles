@@ -1,5 +1,6 @@
 [core]
         autocrlf = false
+        git config --global core.editor 'vim -c "set fenc=utf-8"'
 [user]
         email = 29170535+tarot-shogun@users.noreply.github.com
         name = Tarots Hogun
