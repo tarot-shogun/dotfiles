@@ -4,7 +4,7 @@
 # Include motivations for the change and contrasts with previous
 # behavior
 #
-# Refs: #1
+# issue: #1
 ##################################################################
 # <type>
 # build: Changes that affect the build system or external dependencies (example scopes: gulp, broccoli, npm)
